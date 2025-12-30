@@ -2,10 +2,6 @@
 
 🛡️ Triform Cryptography System v2.0
 
-<div align="center">https://img.shields.io/badge/TRIFORM-v2.0-black?style=for-the-badge&logo=quantum&logoColor=white
-https://img.shields.io/badge/Quantum-Secure-blue?style=for-the-badge&logo=quantum&logoColor=white
-https://img.shields.io/badge/Consciousness-Aware-purple?style=for-the-badge&logo=brain&logoColor=white
-https://img.shields.io/badge/Elemental-Framework-green?style=for-the-badge&logo=leaf&logoColor=white
 
 A Quantum-Advanced, Consciousness-Aware Cryptographic Architecture
 
